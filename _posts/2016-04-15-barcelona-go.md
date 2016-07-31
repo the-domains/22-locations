@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-31T14:05:37.734Z'
+datePublished: '2016-07-31T14:10:41.674Z'
 sourcePath: _posts/2016-04-15-barcelona-go.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/98123388'
@@ -11,7 +11,7 @@ author:
   - name: Rob Whitworth
     url: 'http://vimeo.com/robwhitworth'
     avatar: {}
-dateModified: '2016-07-31T14:05:36.571Z'
+dateModified: '2016-07-31T14:10:41.481Z'
 title: Barcelona GO!
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/98123388'
