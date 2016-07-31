@@ -1,4 +1,3 @@
-layout_spectrum: 0.07076102634891868
 typography_spectrum: 0.731463672593236
 color:
   brandStrength: 0.2535562675911933
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.07076102634891868
 name: 22 Locations
 title: Locations Found
+description: The Art of the Find...
