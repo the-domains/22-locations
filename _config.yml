@@ -1,16 +1,16 @@
-typography_spectrum: 0.731463672593236
+typography_spectrum: 0.8409664102364331
 color:
-  brandStrength: 0.2535562675911933
-  lightness: 0.8032623322214931
-  saturation: 0.7244872255250812
-  rhythmicContrast: 0.4519736301153898
+  brandStrength: 0.626862762728706
+  lightness: 0.5455105374567211
+  saturation: 0.5682780486531556
+  rhythmicContrast: 0.018918182468041778
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.07076102634891868
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.5837517599575222
 name: 22 Locations
 title: Locations Found
 description: The Art of the Find...
